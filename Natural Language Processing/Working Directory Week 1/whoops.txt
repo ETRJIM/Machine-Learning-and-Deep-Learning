@@ -1,0 +1,3 @@
+My first line in append fileThis is an appended file and I appended a new file
+so for newline add [backslash n]My first line in append fileThis is an appended file and I appended a new file
+so for newline add [backslash n]
